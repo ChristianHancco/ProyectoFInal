@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "473380301071",
+    "project_id": "salas-de-ensayo-2-0",
+    "storage_bucket": "salas-de-ensayo-2-0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473380301071:android:f1ee3e163dbfd30742767a",
+        "android_client_info": {
+          "package_name": "com.example.formularios_prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473380301071-c9khnarfd3d06d4dhgigdvsl8er81b5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtXdaL-cmF73L5H4H43ZfGZJFlLKmkMU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473380301071-c9khnarfd3d06d4dhgigdvsl8er81b5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473380301071:android:66c93658724bffa742767a",
+        "android_client_info": {
+          "package_name": "com.proyecto.con_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473380301071-c9khnarfd3d06d4dhgigdvsl8er81b5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtXdaL-cmF73L5H4H43ZfGZJFlLKmkMU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473380301071-c9khnarfd3d06d4dhgigdvsl8er81b5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473380301071:android:6360b26e669460d042767a",
+        "android_client_info": {
+          "package_name": "com.valmusic.valmusicstudios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473380301071-c9khnarfd3d06d4dhgigdvsl8er81b5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtXdaL-cmF73L5H4H43ZfGZJFlLKmkMU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473380301071-c9khnarfd3d06d4dhgigdvsl8er81b5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
